@@ -1,10 +1,10 @@
 {
   "name": "TheMystic-Bot-MD",
   "website": "https://github.com/BrunoSobrino",
-  "description": "Subscribete a The ITACHI Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "repository": "https://github.com/Obito770/Sasuke-Bot",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "success_url": "https://github.com/Obito770/Sasuke-Bot",
   "keywords": [
     "nodejs",
     "heroku",
